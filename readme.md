@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://aakasky.com" target="blank">
+ <a href="https://aakasky.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="aakasky" />
  </a>
  <a href="https://www.linkedin.com/in/aakasky" target="_blank">
