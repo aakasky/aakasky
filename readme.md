@@ -2,8 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=aakasky&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://aakasky.github.io)
-
 <!-- Intro -->
 <h3 align="center">
   <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://aakasky.github.io">Aakash Yadav</a></b></samp>
