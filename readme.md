@@ -4,12 +4,12 @@
 
 <!-- Intro -->
 <h3 align="center">
-  <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://aakasky.github.io">Aakash Yadav</a></b></samp>
+  <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://aakasky.netlify.app">Aakash Yadav</a></b></samp>
 </h3>
 
 <p align="center">
   <samp>
-    <a href="https://aakasky.github.io">「 Portfolio 」</a>  
+    <a href="https://aakasky.netlify.app">「 Portfolio 」</a>  
     <br />
     「 I am a developer from <b>India</b> 」
     <br /><br />
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <a href="https://aakasky.github.io" target="_blank">
+ <a href="https://aakasky.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" />
  </a>
  <a href="https://www.linkedin.com/in/aakasky" target="_blank">
