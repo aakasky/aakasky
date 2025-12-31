@@ -40,7 +40,7 @@
  ✨ Passionate about building digital products and learning new technologies  
  ❤️ I love writing clean code and solving complex problems  
  📧 Reach me anytime: **ay1117680@gmail.com**  
- 💬 Ask me anything [here](https://aakasky.github.io)
+ 💬 Ask me anything [here](https://aakasky.netlify.app)
 </p>
 
 <br /><br /><br />
